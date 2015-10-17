@@ -122,7 +122,7 @@ safe: false
 highlighter: pygments
 title: 矿工小屋
 description: 好记性不如烂笔头
-theme: merlot
+theme: kunka
 disqusname: jaspershing
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
