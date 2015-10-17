@@ -110,20 +110,20 @@ customLinks:
 #comment config
 disqus:
   config: false
-  id: minixalpha
+  id: jaspershing
 
 
 #################################### global configure #######################################
 
 username: jaspershing
-baseurl: /StrayBirds
+baseurl: /Miner_Blog
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 飞鸟集
-description: 人生到处知何似，应似飞鸿踏雪泥
+title: 矿工小屋
+description: 好记性不如烂笔头
 theme: merlot
-disqusname: minixalpha
+disqusname: jaspershing
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
 # those themes are all come from GitHub Pages Themes
